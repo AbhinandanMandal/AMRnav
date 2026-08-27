@@ -1,8 +1,11 @@
-# Autonomous UAV Navigation
-This is the implementation of autonomous UAV navigation using reinforcement learning in 2D grid with expert warm start path planning algorithm in GNSS denied environment.
-The initial idea was taken from paper [Path Planning of Autonomous Mobile Robot in Comprehensive Unknown Environment Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10475692/).
+# Autonomous Mobile Robot Navigation
+This is the implementation of autonomous mobile robot navigation using deep reinforcement learning framework in 2D grid with expert warm start path planning algorithm in GNSS denied environment.
+The initial idea was taken from,
+1. [Path Planning of Autonomous Mobile Robot in Comprehensive Unknown Environment Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10475692/).
+2. [AutoNavRL](https://github.com/AbhinandanMandal/AutoNavRL)
 
-<img width="960" height="718" alt="Spying_quadcopter_(cropped)" src="https://github.com/user-attachments/assets/fff83187-131e-4a3a-b7d9-220f78e0c295" />
+<img width="420" height="236" alt="multi_obs_compressed" src="https://github.com/user-attachments/assets/59a04c3a-ca3f-47c3-84f8-0ee538c9eba2" />
+
 
 ## Sensors & Algorithm
 For this project, three fundamental sensors `LiDAR`, `Camera` and `IMU`have been taken into consideration,   
