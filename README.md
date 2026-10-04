@@ -5,6 +5,8 @@ The initial idea was taken from,
 2. [AutoNavRL](https://github.com/AbhinandanMandal/AutoNavRL)
 
 <img width="420" height="236" alt="multi_obs_compressed" src="https://github.com/user-attachments/assets/59a04c3a-ca3f-47c3-84f8-0ee538c9eba2" />
+<img width="934" height="758" alt="Screenshot 2026-10-05 005141" src="https://github.com/user-attachments/assets/3a5dfa5d-de3d-4e92-a4e6-cb682cbeb8df" />
+
 
 
 ## Sensors & Algorithm
